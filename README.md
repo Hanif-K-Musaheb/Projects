@@ -10,5 +10,5 @@
 [tango with Django](https://github.com/Hanif-K-Musaheb/tango_with_django_project)|A web application development project using the Django framework.|	19/2/2025|html, JavaScript, python|1
 [investment mangement web app](https://github.com/Romes241/investment-management-app)|A web application in a team of 5 people where we implemented the alpaca api to simulate a investment app|2-3/2025|html, JavaScript, python|5
 [NEO firebase project](https://github.com/beaualbritton/cs3050-team10)|A project to query a firebase database of near earth astroid data from NASA|14-24/9/2025|python|4|
-[Group_3_Final_Project](https://github.com/mateobolen/Group_3_Final_Project ())|	A project implenting the game asteriods with a few twists	|3/10/2025 - | python|4|
-[ALU implementation in python](https://github.com/Hanif-K-Musaheb/ALU_implementation/tree/main)|A model implementation of ALU and how it carrys out operations like add, sub, and, or, shift aswell as setting the flags for the model|3/11/2025 - |python|3
+[Group_3_Final_Project](https://github.com/mateobolen/Group_3_Final_Project ())|	A project implenting the game asteriods with a few twists	|3/10/2025 - 9/12/2025 | python|4|
+[ALU implementation in python](https://github.com/Hanif-K-Musaheb/ALU_implementation/tree/main)|A model implementation of ALU and how it carrys out operations like add, sub, and, or, shift aswell as setting the flags for the model|3/11/2025 - 5/12/2025 |python|3
