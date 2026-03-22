@@ -12,3 +12,6 @@
 [NEO firebase project](https://github.com/beaualbritton/cs3050-team10)|A project to query a firebase database of near earth astroid data from NASA|14-24/9/2025|python|4|
 [Group_3_Final_Project](https://github.com/mateobolen/Group_3_Final_Project ())|	A project implenting the game asteriods with a few twists	|3/10/2025 - 9/12/2025 | python|4|
 [ALU implementation in python](https://github.com/Hanif-K-Musaheb/ALU_implementation/tree/main)|A model implementation of ALU and how it carrys out operations like add, sub, and, or, shift aswell as setting the flags for the model|3/11/2025 - 5/12/2025 |python|3
+[GeoGuesser Bot (machine learning)](https://github.com/Hanif-K-Musaheb/MLPictureLocator)|A machine learning algorithm that takes in an image any guess where in 23 cities the photo was taken from.|26/1/2026 - |python, pytorch|3|
+[Evolutionary Robotics (Ludobots)](https://github.com/Hanif-K-Musaheb/evolutionary_robotics_UVM2026/tree/simulation)|programming a simple model to walk in a physics simulation|12/1/2026 - | 1 |
+[Data Science - masculinity data set](https://github.com/Hanif-K-Musaheb/DataScience2026_Final_Project)|Looking at anwsers from a masculinity survey to answer question does family effect peoples perception of masculinity|2/3/2026 -m|python,matplotlib, pandas, seaborn|3|
